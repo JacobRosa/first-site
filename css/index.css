@@ -3,6 +3,25 @@ html, body{
     padding: 0;
 }
 
+.topnav{
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+.navitem{
+    display: inline-block;
+    text-decoration: none;
+    color: darkgrey;
+    padding: 12px 18px;
+    height: 20px;
+}
+
+.navitem:hover{
+    color: black;
+    background-color: white;
+}
+
 .footer{
     position: absolute;
     bottom: 0;
