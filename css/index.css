@@ -3,9 +3,20 @@ html, body{
     padding: 0;
 }
 
+body{
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body p{
+    color: white;
+}
+
 .topnav{
     width: 100%;
-    background-color: black;
+    background-color: transparent;
     text-align: center;
 }
 
@@ -27,7 +38,7 @@ html, body{
     bottom: 0;
     height: 100px;
     width: 100%;
-    background-color: black;
+    background-color: transparent;
     color: white;
     text-align: center;
 }
