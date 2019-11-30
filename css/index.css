@@ -13,7 +13,12 @@ body{
 body p{
     color: white;
 }
-
+h2{
+    color:white;
+    text-align: center;
+    font-family:"Times New Roman";
+    font-size: 30px;
+}
 .topnav{
     width: 100%;
     background-color: transparent;
