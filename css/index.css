@@ -13,6 +13,8 @@ body{
 body p{
     color: white;
 }
+p.groove {border-style: groove;}
+
 h2{
     color:white;
     text-align: center;
