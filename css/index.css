@@ -33,7 +33,7 @@ html, body{
     height: 50px;
 }
 
-body p{
+body p, h1{
     color: white;
 }
 
