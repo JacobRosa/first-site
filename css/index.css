@@ -68,8 +68,6 @@ h2{
 }
 
 .footer{
-    position: absolute;
-    bottom: 0;
     height: 100px;
     width: 100%;
     background-color: transparent;
@@ -81,3 +79,15 @@ h2{
     text-decoration: none;
     color: white;
 }
+
+/* UNUSED FOOTER CODE
+.footer{
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+}
+*/
