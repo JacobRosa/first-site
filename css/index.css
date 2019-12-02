@@ -22,7 +22,8 @@ html, body{
 
 #panel2{
     height: 100%;
-    text-color: black;
+    text-color: white;
+    background-image: url("../img/background2.jpg");
 }
 
 #panel2 p{
@@ -32,6 +33,7 @@ html, body{
     text-align: center;
     margin: auto;
     font-size: 20px;
+    color:white;
 }
 
 #panel3{
@@ -62,7 +64,12 @@ h2{
     font-family:"Times New Roman";
     font-size: 30px;
 }
-
+h1{
+    color:white;
+    text-align: center;
+    font-family:"Times New Roman";
+    font-size: 30px;
+}
 .topnav{
     width: 100%;
     background-color:  rgba(0, 0, 0, 0.5);
