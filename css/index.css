@@ -16,8 +16,22 @@ html, body{
     padding-top: 50px;
 }
 
+#panel1 p, #panel1 h1{
+    color: white;
+}
+
 #panel2{
     height: 100%;
+    text-color: black;
+}
+
+#panel2 p{
+    padding-left: 50px;
+    padding-right: 50px;
+    max-width: 70%;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
 }
 
 #panel3{
@@ -31,11 +45,12 @@ html, body{
     margin-right: auto;
     width: 50px;
     height: 50px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-bottom: 20px;
 }
 
-body p, h1{
-    color: white;
-}
 
 p.groove {
     border-style: groove;
@@ -60,6 +75,12 @@ h2{
     color: darkgrey;
     padding: 12px 18px;
     height: 20px;
+}
+
+.info{
+    max-width: 450px;
+    text-align: center;
+    margin: auto;
 }
 
 .navitem:hover{
