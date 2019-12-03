@@ -8,7 +8,7 @@ html, body{
     height: 100%;
     background-image: url("../img/background.png");
     background-repeat: no-repeat;
-    background-attachment: fixed;
+  /** background-attachment: fixed;*/
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -34,7 +34,7 @@ html, body{
     text-color: white;
     background-image: url("../img/background2.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
+   /* background-attachment: fixed;*/
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
