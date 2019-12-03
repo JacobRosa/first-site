@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd2c974-6dda-4c25-8fca-8d4bd1cda8bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/background.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/changelog.html" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +49,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -188,7 +188,28 @@
       <option name="project" value="LOCAL" />
       <updated>1575340719195</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated footer format">
+      <created>1575341050796</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575341050797</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added copyright logo">
+      <created>1575350477057</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575350477057</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Background image no longer fixed">
+      <created>1575350596335</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575350596335</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,17 +241,24 @@
     <MESSAGE value="Added body" />
     <MESSAGE value="Updated script" />
     <MESSAGE value="Fixed formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed formatting" />
+    <MESSAGE value="Updated footer format" />
+    <MESSAGE value="Added copyright logo" />
+    <MESSAGE value="Background image no longer fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Background image no longer fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575275270246">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1575275270246" />
-    <state x="368" y="7" key="CommitChangelistDialog2" timestamp="1575340719023">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575350737415">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="368" y="7" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575340719023" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575350737415" />
+    <state x="368" y="7" key="CommitChangelistDialog2" timestamp="1575350781001">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="368" y="7" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575350781001" />
     <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575081845783" />
     <state x="368" y="29" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1575196475962" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1575332164716">
@@ -249,10 +277,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="VCS.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1575332164717" />
-    <state x="338" y="158" key="Vcs.Push.Dialog.v2" timestamp="1575340720876">
+    <state x="338" y="158" key="Vcs.Push.Dialog.v2" timestamp="1575350605060">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="338" y="158" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575340720876" />
+    <state x="338" y="158" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575350605060" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575081866419" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1574996161655">
       <screen x="0" y="0" width="1536" height="824" />
