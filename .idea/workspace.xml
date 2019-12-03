@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4bd2c974-6dda-4c25-8fca-8d4bd1cda8bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.html" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,11 +175,28 @@
       <option name="project" value="LOCAL" />
       <updated>1575330651933</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Updated script">
+      <created>1575331715224</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575331715224</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added texts to test the commit functions." />
@@ -195,19 +212,24 @@
     <MESSAGE value="Added files" />
     <MESSAGE value="Added script" />
     <MESSAGE value="Added body" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added body" />
+    <MESSAGE value="Updated script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated script" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575275270246">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1575275270246" />
-    <state x="368" y="7" key="CommitChangelistDialog2" timestamp="1575330651697">
+    <state x="368" y="7" key="CommitChangelistDialog2" timestamp="1575331715030">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="368" y="7" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575330651697" />
+    <state x="368" y="7" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575331715030" />
     <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1575081845783" />
     <state x="368" y="29" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1575196475962" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1575332164716">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1575332164716" />
     <state x="481" y="128" key="MultipleFileMergeDialog" timestamp="1575077378491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -216,14 +238,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="512" y="168" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575095067688" />
-    <state x="338" y="158" key="Vcs.Push.Dialog.v2" timestamp="1575330653936">
+    <state x="100" y="100" width="1240" height="700" key="VCS.FileHistoryDialog" timestamp="1575332164717">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="338" y="158" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575330653936" />
+    <state x="100" y="100" width="1240" height="700" key="VCS.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1575332164717" />
+    <state x="338" y="158" key="Vcs.Push.Dialog.v2" timestamp="1575331718481">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="338" y="158" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575331718481" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1575081866419" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1574996161655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1574996161655" />
+    <state x="485" y="248" key="git4idea.merge.GitMergeDialog" timestamp="1575332196551">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="485" y="248" key="git4idea.merge.GitMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1575332196551" />
+    <state x="497" y="302" key="git4idea.ui.GitTagDialog" timestamp="1575332173211">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="497" y="302" key="git4idea.ui.GitTagDialog/0.0.1440.900@0.0.1440.900" timestamp="1575332173211" />
   </component>
 </project>

@@ -14,10 +14,19 @@ html, body{
     -moz-background-size: cover;
     -o-background-size: cover;
     padding-top: 50px;
+    margin-bottom: 5px;
 }
 
 #panel1 p, #panel1 h1{
     color: white;
+}
+
+#panel2 h1{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 #panel2{
@@ -30,6 +39,7 @@ html, body{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    margin-bottom: 5px;
 }
 
 #panel2 p{
@@ -43,7 +53,6 @@ html, body{
 }
 
 #panel3{
-    height: 100%;
     background-color: black;
 }
 
@@ -59,6 +68,10 @@ html, body{
     margin-bottom: 20px;
 }
 
+#panel3 p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 
 p.groove {
     border-style: groove;
@@ -102,11 +115,12 @@ h1{
 }
 
 .footer{
-    height: 100px;
     width: 100%;
     background-color: transparent;
     color: white;
     text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .footer a{
